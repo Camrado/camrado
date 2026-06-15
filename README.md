@@ -38,8 +38,8 @@ Software Engineer working on aviation systems, and CS student at the French-Azer
 A PWA that digitized university attendance tracking, onboarding 200+ active users (over 30% of UFAZ's student body).
  
 - [skipsmart-frontend](https://github.com/Camrado/skipsmart-frontend) — mobile-first frontend built with Vue 3 for fast, low-latency check-ins during peak lecture times
-- [skipsmart-backend-v2-core-service](https://github.com/Camrado/skipsmart-backend-v2-core-service) — core backend API on .NET 10 + PostgreSQL, handling concurrent daily check-ins and student records
-- [skipsmart-backend-v2-timetable-service](https://github.com/Camrado/skipsmart-backend-v2-timetable-service) — timetable service powering schedule-aware attendance logic
+- [skipsmart-backend-v2-core-service](https://github.com/Camrado/skipsmart-backend-core) — core backend API on .NET 10 + PostgreSQL, handling concurrent daily check-ins and student records
+- [skipsmart-backend-v2-timetable-service](https://github.com/Camrado/skipsmart-backend-timetable) — timetable service powering schedule-aware attendance logic
 
 ---
 
