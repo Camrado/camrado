@@ -11,12 +11,12 @@ Software Engineer working on aviation systems, and CS student at the French-Azer
 ---
 
 ## 🛠️ Tech I work with
-
-**Backend:** C#, ASP.NET Core, .NET, Python, Node.js, Express.js
-**Frontend:** Angular, Vue 3, TypeScript, JavaScript, HTML/CSS, SCSS
-**Databases:** PostgreSQL, SQL, MongoDB
+ 
+**Backend:** C#, ASP.NET Core, .NET, Python, Node.js, Express.js  
+**Frontend:** Angular, Vue 3, TypeScript, JavaScript, HTML/CSS, SCSS  
+**Databases:** PostgreSQL, SQL, MongoDB  
 **Tools:** Docker, Azure CI/CD, Git
-
+ 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" alt=".NET"/>
@@ -33,15 +33,26 @@ Software Engineer working on aviation systems, and CS student at the French-Azer
 
 ## 📌 Featured project
 
-### [SkipSmart](https://github.com/Camrado/skipsmart-frontend) — skipsmart.org
-An attendance-tracking PWA built for UFAZ students. Backend on .NET 10 + PostgreSQL handling concurrent daily check-ins, mobile-first frontend in Vue 3. Live with 200+ active users — over 30% of the student body.
+### SkipSmart — [skipsmart.org](https://skipsmart.org)
+
+A PWA that digitized university attendance tracking, onboarding 200+ active users (over 30% of UFAZ's student body).
+ 
+- [skipsmart-frontend](https://github.com/Camrado/skipsmart-frontend) — mobile-first frontend built with Vue 3 for fast, low-latency check-ins during peak lecture times
+- [skipsmart-backend-v2-core-service](https://github.com/Camrado/skipsmart-backend-v2-core-service) — core backend API on .NET 10 + PostgreSQL, handling concurrent daily check-ins and student records
+- [skipsmart-backend-v2-timetable-service](https://github.com/Camrado/skipsmart-backend-v2-timetable-service) — timetable service powering schedule-aware attendance logic
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Camrado&show_icons=true&theme=radical)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Camrado&layout=compact&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camrado&show_icons=true&include_all_commits=true&rank_icon=github&theme=radical" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camrado&layout=donut&langs_count=8&theme=radical" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Camrado&theme=radical" alt="GitHub streak" />
+</p>
 
 ---
 
