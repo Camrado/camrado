@@ -1,10 +1,10 @@
 # Hi, I'm Kamal Yalchin 👋
 
-Software Engineer working on aviation systems, and CS student at the French-Azerbaijani University (UFAZ — University of Strasbourg & ASOIU partnership).
+Software Engineer working on aviation systems, and CS student at the French-Azerbaijani University (University of Strasbourg & ASOIU partnership).
 
-- 🛫 Currently a Software Engineer at **R.I.S.K. Company**, Air-Navigation Department — migrating a 30-year-old legacy WPF flight-procedure platform to a modern ASP.NET Core + Angular web architecture
-- 🎓 3rd-year CS student at UFAZ, **#1 in faculty**, 4.0 GPA, Presidential Scholarship recipient
-- 🧩 Built and shipped **SkipSmart**, a PWA attendance tracker now used by 200+ UFAZ students
+- 🛫 Currently a Software Engineer at **R.I.S.K. Company**, Air-Navigation Department — working on flight procedure design tools and safety-critical geometry calculations for aviation systems
+- 🎓 CS student at UFAZ, **#1 in faculty**, 4.0 GPA, Presidential Scholarship recipient
+- 🧩 Built and shipped **SkipSmart**, a PWA attendance tracker used by 200+ UFAZ students
 - 🏆 ICPC 2025 Azerbaijan Regional finalist, 3x national hackathon finalist (TransitHack, PASHA BankTech, PASHA 5.0)
 - 🌱 Into entrepreneurship, gym, gaming, and anything with a bit of adrenaline
 
