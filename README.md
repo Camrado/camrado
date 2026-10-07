@@ -1,45 +1,85 @@
 # Hi, I'm Kamal Yalchin 👋
 
-Software Engineer working on aviation systems, and CS student at the French-Azerbaijani University (University of Strasbourg & ASOIU partnership).
+Backend engineer working on aviation software, and final-year Computer Science student at the French-Azerbaijani University (dual degree with the University of Strasbourg). I care about systems that stay correct under load: clean architecture, consistent data, reliable services.
 
-- 🛫 Currently a Software Engineer at **R.I.S.K. Company**, Air-Navigation Department — working on flight procedure design tools and safety-critical geometry calculations for aviation systems
-- 🎓 CS student at UFAZ, **#1 in faculty**, 4.0 GPA, Presidential Scholarship recipient
-- 🧩 Built and shipped **SkipSmart**, a PWA attendance tracker used by 200+ UFAZ students
-- 🏆 ICPC 2025 Azerbaijan Regional finalist, 3x national hackathon finalist (TransitHack, PASHA BankTech, PASHA 5.0)
-- 🌱 Into entrepreneurship, gym, gaming, and anything with a bit of adrenaline
+- 🛫 **Junior Software Engineer at R.I.S.K. Company**, Air Navigation Department. Co-architecting the migration of a 30-year-old WPF application (20+ aeronautical modules) to an ASP.NET Core modular monolith, and building flight procedure design and validation tools
+- ⚡ Built an automated dataset auditing pipeline at work that cut manual verification from **5+ hours to under 5 minutes**
+- 🚀 **Co-founder & CTO of [Progresium](https://progresium.com)**, a focus-first task manager whose "Lock In" mode blocks distracting apps and sites across synced devices
+- 🎓 **Ranked 1st of 168** university-wide at UFAZ, Presidential Scholar of Azerbaijan
+- 🔭 Currently going deeper into OS internals, concurrency, parallel programming and distributed systems
+- 🏆 ICPC 2025 Azerbaijan Regional Contest (High Achievement Award), 3x national hackathon finalist
 
 ---
 
-## 🛠️ Tech I work with
- 
-**Backend:** C#, ASP.NET Core, .NET, Python, Node.js, Express.js  
-**Frontend:** Angular, Vue 3, TypeScript, JavaScript, HTML/CSS, SCSS  
-**Databases:** PostgreSQL, SQL, MongoDB  
-**Tools:** Docker, Azure CI/CD, Git
- 
+## 🛠️ Tech stack
+
+**Languages:** C#, C/C++, Python, TypeScript, JavaScript, SQL  
+**Backend:** ASP.NET Core, EF Core, Clean Architecture, CQRS (MediatR), modular monolith, Hangfire, RabbitMQ, Node.js, Express.js  
+**Security:** JWT, OAuth 2.0 / OpenID Connect, role- and policy-based authorization  
+**Data:** PostgreSQL, MongoDB  
+**Cloud & DevOps:** Microsoft Azure, Azure CI/CD, Docker, Kubernetes, Linux, Git  
+**Frontend:** Angular, Vue 3
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" alt=".NET"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" alt="Vue"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="40" alt="RabbitMQ"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40" alt="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" alt="Azure"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" alt="Angular"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" alt="Vue"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
 
 ---
 
-## 📌 Featured project
+## 📌 Products I've built
 
-### SkipSmart — [skipsmart.org](https://skipsmart.org)
+### Progresium · [progresium.com](https://progresium.com)
 
-A PWA that digitized university attendance tracking, onboarding 200+ active users (over 30% of UFAZ's student body).
- 
-- [skipsmart-frontend](https://github.com/Camrado/skipsmart-frontend) — mobile-first frontend built with Vue 3 for fast, low-latency check-ins during peak lecture times
-- [skipsmart-backend-core](https://github.com/Camrado/skipsmart-backend-core) — core backend API on .NET 10 + PostgreSQL, handling concurrent daily check-ins and student records
-- [skipsmart-backend-timetable](https://github.com/Camrado/skipsmart-backend-timetable) — timetable service powering schedule-aware attendance logic
+Focus-first productivity SaaS. I architected and built the backend.
+
+- [ProgresiumToDo](https://github.com/Camrado/ProgresiumToDo): .NET 10 Clean Architecture API with CQRS (MediatR), PostgreSQL + EF Core, JWT and Google OAuth, subscriptions/billing, Hangfire background jobs and Scalar API docs
+
+### SkipSmart
+
+Attendance tracking PWA for UFAZ students, taken from idea to production by me. Reached **200+ active users**, over 30% of the student body.
+
+- [skipsmart-backend-core](https://github.com/Camrado/skipsmart-backend-core): core API on .NET 10 + PostgreSQL, built to handle bursts of concurrent check-ins at lecture start
+- [skipsmart-frontend](https://github.com/Camrado/skipsmart-frontend): mobile-first Vue 3 PWA that stays responsive during peak check-in minutes
+- [skipsmart-backend-timetable](https://github.com/Camrado/skipsmart-backend-timetable): Python (Flask) service that pulls the university timetable from Edupage for schedule-aware attendance logic
+
+---
+
+## ⚙️ Systems & low-level
+
+| Project | What it is | Stack |
+|---|---|---|
+| [minima-vm](https://github.com/Camrado/minima-vm) | 16-bit register virtual machine from scratch: memory, registers, stack, instruction set, two-pass assembler, disassembler, trace/step execution | C |
+| [build-your-own-shell](https://github.com/Camrado/build-your-own-shell) | POSIX-compliant shell with builtins, external programs, I/O redirection, pipelines and quoting (CodeCrafters challenge) | C# |
+| [mini-scheduler](https://github.com/Camrado/mini-scheduler) | CPU scheduler simulator: capacity-bounded priority scheduling with preemption, min/max heaps, deterministic tie-breaking, full timeline logging | C |
+| [cpp-chess-engine](https://github.com/Camrado/cpp-chess-engine) | Terminal chess engine with full rules enforcement on a polymorphic piece hierarchy, no type-branching | C++17 |
+
+## 🤖 AI & hackathon projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [amcham-access-bank-chatbot](https://github.com/Camrado/amcham-access-bank-chatbot) | Multilingual RAG support agent with sentiment-aware escalation, anomaly detection and an admin dashboard, built in 5 hours at the AmCham x AccessBank hackathon | Python, FastAPI, OpenAI |
+| [methane-guard](https://github.com/Camrado/methane-guard) · [frontend](https://github.com/Camrado/methane-guard-frontend) | Methane leak monitoring over Azerbaijan: hyperspectral satellite detection plus a live map dashboard for inspection dispatch and severity analytics | PyTorch, Spring Boot, JavaScript, Leaflet |
+| [pd-handwriting-detection](https://github.com/Camrado/pd-handwriting-detection) | Parkinson's detection from digitizer handwriting: EfficientNetB3 features, leakage-safe feature selection, two-stage ensemble. 77.8% accuracy, AUC 0.80 (10-fold CV, 72 subjects) | TensorFlow, scikit-learn |
+| [ielts-telegram-bot](https://github.com/Camrado/ielts-telegram-bot) | IELTS prep bot with AI vocabulary flashcards, spaced repetition and grammar quizzes | Python, PostgreSQL, OpenAI |
+
+## 🧰 Small tools
+
+- [promptmap](https://github.com/Camrado/promptmap): Chrome extension that turns long AI conversations into navigable documents
+- [yt-shorts-blocker](https://github.com/Camrado/yt-shorts-blocker): Android app that blocks YouTube Shorts without blocking YouTube (Kotlin)
 
 ---
 
