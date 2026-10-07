@@ -72,6 +72,8 @@ Telegram bot for IELTS preparation that turns vocabulary practice into a daily h
 | [build-your-own-shell](https://github.com/Camrado/build-your-own-shell) | POSIX-compliant shell with builtins, external programs, I/O redirection, pipelines and quoting (CodeCrafters challenge) | C# |
 | [mini-scheduler](https://github.com/Camrado/mini-scheduler) | CPU scheduler simulator: capacity-bounded priority scheduling with preemption, min/max heaps, deterministic tie-breaking, full timeline logging | C |
 | [cpp-chess-engine](https://github.com/Camrado/cpp-chess-engine) | Terminal chess engine with full rules enforcement on a polymorphic piece hierarchy, no type-branching | C++17 |
+| [singly-linked-list-c](https://github.com/Camrado/singly-linked-list-c) | Menu-driven singly linked list with insert, delete, search, count and forward/reverse traversal, using manual memory management | C |
+| [doubly-linked-list-c](https://github.com/Camrado/doubly-linked-list-c) | Menu-driven doubly linked list with insert, delete, search and forward/reverse traversal via prev/next links, using manual memory management | C |
 
 ## 🤖 AI & hackathon projects
 
