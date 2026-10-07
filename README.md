@@ -1,8 +1,8 @@
 # Hi, I'm Kamal Yalchin 👋
 
-Backend engineer working on aviation software, and final-year Computer Science student at the French-Azerbaijani University (dual degree with the University of Strasbourg). I care about systems that stay correct under load: clean architecture, consistent data, reliable services.
+Software engineer working on aviation software, and final-year Computer Science student at the French-Azerbaijani University (dual degree with the University of Strasbourg).
 
-- 🛫 **Junior Software Engineer at R.I.S.K. Company**, Air Navigation Department. Co-architecting the migration of a 30-year-old WPF application (20+ aeronautical modules) to an ASP.NET Core modular monolith, and building flight procedure design and validation tools
+- 🛫 **Software Engineer at R.I.S.K. Company**, Air Navigation Department. Co-architecting the migration of a 30-year-old WPF application (20+ aeronautical modules) to an ASP.NET Core modular monolith, and building flight procedure design and validation tools
 - ⚡ Built an automated dataset auditing pipeline at work that cut manual verification from **5+ hours to under 5 minutes**
 - 🚀 **Co-founder & CTO of [Progresium](https://progresium.com)**, a focus-first task manager whose "Lock In" mode blocks distracting apps and sites across synced devices
 - 🎓 **Ranked 1st of 168** university-wide at UFAZ, Presidential Scholar of Azerbaijan
@@ -56,6 +56,12 @@ Attendance tracking PWA for UFAZ students, taken from idea to production by me. 
 - [skipsmart-frontend](https://github.com/Camrado/skipsmart-frontend): mobile-first Vue 3 PWA that stays responsive during peak check-in minutes
 - [skipsmart-backend-timetable](https://github.com/Camrado/skipsmart-backend-timetable): Python (Flask) service that pulls the university timetable from Edupage for schedule-aware attendance logic
 
+### IELTS Telegram Bot
+
+Telegram bot for IELTS preparation that turns vocabulary practice into a daily habit.
+
+- [ielts-telegram-bot](https://github.com/Camrado/ielts-telegram-bot): AI-generated vocabulary flashcards with spaced repetition, bulk word import and interactive grammar quizzes, built with Python, PostgreSQL (asyncpg) and the OpenAI API
+
 ---
 
 ## ⚙️ Systems & low-level
@@ -74,8 +80,6 @@ Attendance tracking PWA for UFAZ students, taken from idea to production by me. 
 | [amcham-access-bank-chatbot](https://github.com/Camrado/amcham-access-bank-chatbot) | Multilingual RAG support agent with sentiment-aware escalation, anomaly detection and an admin dashboard, built in 5 hours at the AmCham x AccessBank hackathon | Python, FastAPI, OpenAI |
 | [methane-guard](https://github.com/Camrado/methane-guard) · [frontend](https://github.com/Camrado/methane-guard-frontend) | Methane leak monitoring over Azerbaijan: hyperspectral satellite detection plus a live map dashboard for inspection dispatch and severity analytics | PyTorch, Spring Boot, JavaScript, Leaflet |
 | [pd-handwriting-detection](https://github.com/Camrado/pd-handwriting-detection) | Parkinson's detection from digitizer handwriting: EfficientNetB3 features, leakage-safe feature selection, two-stage ensemble. 77.8% accuracy, AUC 0.80 (10-fold CV, 72 subjects) | TensorFlow, scikit-learn |
-| [ielts-telegram-bot](https://github.com/Camrado/ielts-telegram-bot) | IELTS prep bot with AI vocabulary flashcards, spaced repetition and grammar quizzes | Python, PostgreSQL, OpenAI |
-
 ## 🧰 Small tools
 
 - [promptmap](https://github.com/Camrado/promptmap): Chrome extension that turns long AI conversations into navigable documents
